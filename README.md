@@ -78,6 +78,4 @@ test('login com sucesso', async ({ page }) => {
 - Integre os testes com pipelines CI/CD (Jenkins, GitHub Actions)
 - Documente cenários e resultados para facilitar a análise
 
----
 
-> Sinta-se à vontade para contribuir com novos exemplos ou adaptar os modelos conforme a necessidade do seu projeto!
